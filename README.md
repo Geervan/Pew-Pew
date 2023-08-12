@@ -3,4 +3,4 @@ A not so furnished 3d fps game to get the taste of game developing, good enough 
 # Downloading
 1.Releases tab on github
 or 
-(Pew Pew)[https://geervan.itch.io/pew-pew] on itch.io
+[Pew Pew](https://geervan.itch.io/pew-pew) on itch.io
